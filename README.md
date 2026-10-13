@@ -32,8 +32,19 @@ must be installed: they are on Google Fonts, under the SIL Open Font License):
 CLI=path/to/stitchfoundry-cli ./generate.sh
 ```
 
+
+## Ink/Stitch fonts
+
+[`inkstitch/`](inkstitch) holds 131 fonts from the Ink/Stitch project's collection
+(https://github.com/inkstitch/embroidery-fonts), copied unchanged, each with its own `LICENSE`:
+102 under the SIL Open Font License, 26 under Creative Commons Attribution(-ShareAlike), 3 in the
+public domain. They are digitized by hand and sew-tested by their authors. Load one the same way
+(a folder under `inkstitch/`). Fonts whose licences forbid commercial use or changes are left
+out; see [`ATTRIBUTION.md`](ATTRIBUTION.md).
+
 ## Licence
 
-Each font is under the SIL Open Font License 1.1, as the typeface it was digitized from: see its
-`OFL.txt`. Where a typeface has Reserved Font Names (Graduate; Alfa Slab), the derived font does
+The Foundry fonts are under the SIL Open Font License 1.1, as the typefaces they were digitized
+from: see each one's `OFL.txt`. The Ink/Stitch fonts keep their own licences (each folder's
+`LICENSE`). Where a typeface has Reserved Font Names (Graduate; Alfa Slab), the derived font does
 not use them. The script and documentation are MIT OR Apache-2.0. See [`ATTRIBUTION.md`](ATTRIBUTION.md).
