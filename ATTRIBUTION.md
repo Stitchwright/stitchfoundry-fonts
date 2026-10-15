@@ -9,7 +9,7 @@
 | Foundry Sans | Open Sans (Bold) | The Open Sans Project Authors | https://github.com/googlefonts/opensans | OFL-1.1 |
 
 The typefaces were taken from https://github.com/google/fonts (`ofl/`). The embroidery
-digitizations are Copyright 2026 SiteSentrix, under the same licence as their typefaces.
+digitizations are Copyright 2026 Stitchwright, under the same licence as their typefaces.
 
 ## Ink/Stitch fonts (`inkstitch/`)
 

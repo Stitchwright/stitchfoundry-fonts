@@ -1,6 +1,6 @@
 # StitchFoundry fonts
 
-Embroidery fonts for [StitchFoundry](https://github.com/SiteSentrix/StitchFoundry): lettering
+Embroidery fonts for [StitchFoundry](https://github.com/Stitchwright/StitchFoundry): lettering
 fonts digitized from openly licensed typefaces with StitchFoundry's font creator.
 
 > **Status: generated, not yet sew-tested.** Each font was digitized automatically (satin where
