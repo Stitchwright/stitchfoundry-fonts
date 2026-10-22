@@ -13,7 +13,7 @@ fonts digitized from openly licensed typefaces with StitchFoundry's font creator
 | Foundry Block | Anton | Bold block letters; 3D puff from 20 mm | 10–62 mm | |
 | Foundry Varsity | Graduate | Team names and numbers | 12.5–75 mm | |
 | Foundry Script | Pacifico | Thick rounded script | 15–62 mm | |
-| Foundry Slab | Alfa Slab One | Heavy slab serif | 12.5–62 mm | Round parts of 2, 6, c, z want tidying |
+| Foundry Slab | Alfa Slab One | Heavy slab serif | 12.5–62 mm | All tatami at 45° (its curves are too wide to satin) |
 | Foundry Sans | Open Sans Bold | Small, clean text | 5–30 mm | Thin strokes want a sew test before use |
 
 Previews of each font's stitches are in [`previews/`](previews).
