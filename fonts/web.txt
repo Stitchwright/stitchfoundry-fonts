@@ -1,0 +1,11 @@
+# The fonts the web app embeds (its download stays small); the desktop app embeds them all.
+foundry-block
+foundry-varsity
+foundry-script
+foundry-sans
+foundry-elegant
+foundry-classic
+foundry-monogram
+foundry-geo
+foundry-bubble
+foundry-western

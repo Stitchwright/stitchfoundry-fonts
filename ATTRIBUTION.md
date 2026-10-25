@@ -7,6 +7,40 @@
 | Foundry Script | Pacifico | The Pacifico Project Authors | https://github.com/googlefonts/Pacifico | OFL-1.1 |
 | Foundry Slab | Alfa Slab One | The Alfa Slab One Project Authors (Reserved Font Name "Alfa Slab") | http://www.jmsole.cl | OFL-1.1 |
 | Foundry Sans | Open Sans (Bold) | The Open Sans Project Authors | https://github.com/googlefonts/opensans | OFL-1.1 |
+| Foundry Elegant | Great Vibes | 2015 The Great Vibes Pro Project Authors | https://github.com/google/fonts/tree/main/ofl/greatvibes | OFL-1.1 |
+| Foundry Dance | Dancing Script (Bold) | 2016 The Dancing Script Project Authors (Reserved Font Name "Dancing Script") | https://github.com/google/fonts/tree/main/ofl/dancingscript | OFL-1.1 |
+| Foundry Retro Script | Lobster | 2010 The Lobster Project Authors (Reserved Font Name "Lobster") | https://github.com/google/fonts/tree/main/ofl/lobster | OFL-1.1 |
+| Foundry Casual | Cookie | 2011 by Ania Kruk (Reserved Font Name "Cookie") | https://github.com/google/fonts/tree/main/ofl/cookie | OFL-1.1 |
+| Foundry Brush | Kaushan Script | 2011, Pablo Impallari , 2011, Igino Marini | https://github.com/google/fonts/tree/main/ofl/kaushanscript | OFL-1.1 |
+| Foundry Wedding | Allura | 2010 The Allura Project Authors | https://github.com/google/fonts/tree/main/ofl/allura | OFL-1.1 |
+| Foundry Flourish | Alex Brush | 2011 The Alex Brush Project Authors | https://github.com/google/fonts/tree/main/ofl/alexbrush | OFL-1.1 |
+| Foundry Signature | Damion | 2014 The Damion Project Authors | https://github.com/google/fonts/tree/main/ofl/damion | OFL-1.1 |
+| Foundry Friendly | Courgette | 2012 by Sorkin Type Co (Reserved Font Name "Courgette") | https://github.com/google/fonts/tree/main/ofl/courgette | OFL-1.1 |
+| Foundry Classic | Playfair Display (Bold) | 2017 The Playfair Display Project Authors (Reserved Font Name "Playfair Display") | https://github.com/google/fonts/tree/main/ofl/playfairdisplay | OFL-1.1 |
+| Foundry Roman | Cinzel (Bold) | 2020 The Cinzel Project Authors | https://github.com/google/fonts/tree/main/ofl/cinzel | OFL-1.1 |
+| Foundry Monogram | Cinzel Decorative (Bold) | 2012 Natanael Gama (Reserved Font Name "Cinzel") | https://github.com/google/fonts/tree/main/ofl/cinzeldecorative | OFL-1.1 |
+| Foundry Book | Merriweather (Bold) | 2020 The Merriweather Project Authors (Reserved Font Name "Merriweather") | https://github.com/google/fonts/tree/main/ofl/merriweather | OFL-1.1 |
+| Foundry Fat Serif | Abril Fatface | 2011, TypeTogether (Reserved Font Name "Abril") | https://github.com/google/fonts/tree/main/ofl/abrilfatface | OFL-1.1 |
+| Foundry Library | Libre Baskerville (Bold) | 2012 The Libre Baskerville Project Authors (Reserved Font Name "Libre Baskerville") | https://github.com/google/fonts/tree/main/ofl/librebaskerville | OFL-1.1 |
+| Foundry Geo | Montserrat (Bold) | 2024 The Montserrat.Git Project Authors | https://github.com/google/fonts/tree/main/ofl/montserrat | OFL-1.1 |
+| Foundry Condensed | Oswald (Bold) | 2016 The Oswald Project Authors | https://github.com/google/fonts/tree/main/ofl/oswald | OFL-1.1 |
+| Foundry Poster | Bebas Neue | 2010 by Dharma Type | https://github.com/google/fonts/tree/main/ofl/bebasneue | OFL-1.1 |
+| Foundry Modern | Raleway (Bold) | 2010 The Raleway Project Authors (Reserved Font Name "Raleway") | https://github.com/google/fonts/tree/main/ofl/raleway | OFL-1.1 |
+| Foundry Round | Poppins (Bold) | 2020 The Poppins Project Authors | https://github.com/google/fonts/tree/main/ofl/poppins | OFL-1.1 |
+| Foundry Small | Lato (Bold) | 2010-2014 by tyPoland Lukasz Dziedzic (Reserved Font Name "Lato") | https://github.com/google/fonts/tree/main/ofl/lato | OFL-1.1 |
+| Foundry Bubble | Fredoka (Bold) | 2016 The Fredoka Project Authors | https://github.com/google/fonts/tree/main/ofl/fredoka | OFL-1.1 |
+| Foundry Comic | Bangers | 2010 The Bangers Project Authors | https://github.com/google/fonts/tree/main/ofl/bangers | OFL-1.1 |
+| Foundry Playful | Baloo 2 (Bold) | The Baloo 2 Project Authors | https://github.com/google/fonts/tree/main/ofl/baloo2 | OFL-1.1 |
+| Foundry Retro | Righteous | 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (Reserved Font Name "Righteous") | https://github.com/google/fonts/tree/main/ofl/righteous | OFL-1.1 |
+| Foundry Sign | Bungee | 2023 The Bungee Project Authors | https://github.com/google/fonts/tree/main/ofl/bungee | OFL-1.1 |
+| Foundry Chunky | Lilita One | 2011 Juan Montoreano | https://github.com/google/fonts/tree/main/ofl/lilitaone | OFL-1.1 |
+| Foundry Western | Rye | 2011 by Sorkin Type Co (Reserved Font Name "Rye") | https://github.com/google/fonts/tree/main/ofl/rye | OFL-1.1 |
+| Foundry Stencil | Black Ops One | 2022 The Black-Ops Project Authors | https://github.com/google/fonts/tree/main/ofl/blackopsone | OFL-1.1 |
+| Foundry Athletic | Staatliches | 2018 The Staatliches Authors | https://github.com/google/fonts/tree/main/ofl/staatliches | OFL-1.1 |
+| Foundry Gothic | UnifrakturMaguntia | 2010 j. 'mach' wust; 2009 Peter Wiegel (Reserved Font Name "UnifrakturMaguntia") | https://github.com/google/fonts/tree/main/ofl/unifrakturmaguntia | OFL-1.1 |
+| Foundry Blackletter | Pirata One | 2012, Rodrigo Fuenzalida, Nicolas Massi (Reserved Font Name "Pirata") | https://github.com/google/fonts/tree/main/ofl/pirataone | OFL-1.1 |
+| Foundry Tech | Russo One | 2011-2012, Jovanny Lemonad (jovanny.ru) (Reserved Font Name "Russo") | https://github.com/google/fonts/tree/main/ofl/russoone | OFL-1.1 |
+| Foundry Heavy | Archivo Black | 2017 The Archivo Black Project Authors | https://github.com/google/fonts/tree/main/ofl/archivoblack | OFL-1.1 |
 
 The typefaces were taken from https://github.com/google/fonts (`ofl/`). The embroidery
 digitizations are Copyright 2026 Stitchwright, under the same licence as their typefaces.
