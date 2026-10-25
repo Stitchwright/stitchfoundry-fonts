@@ -13,7 +13,7 @@ foundry-varsity|Graduate|Regular|Foundry Varsity|25|8|0.5|3|Collegiate block let
 foundry-script|Pacifico|Regular|Foundry Script|25|6|0.6|2.5|A thick, rounded script, digitized from Pacifico. Best from 15 mm, where its joins stay sewable.
 foundry-slab|Alfa Slab One|Regular|Foundry Slab|25|8|0.5|2.5|A heavy slab serif, digitized from Alfa Slab One.|tatami
 foundry-sans|Open Sans|Bold|Foundry Sans|10|3|0.5|3|A clean bold sans for small text from 5 mm, digitized from Open Sans.
-foundry-elegant|Great Vibes|Regular|Foundry Elegant|25||0.6|2.5|A flowing formal script for names, weddings and monograms, digitized from Great Vibes. Best from 15 mm.
+foundry-elegant|Great Vibes|Regular|Foundry Elegant|25|6|0.6|2.5|A flowing formal script for names, weddings and monograms, digitized from Great Vibes. Best from 15 mm.
 foundry-dance|Dancing Script|Bold|Foundry Dance|25||0.5|2.5|A lively bouncing script, digitized from Dancing Script Bold.
 foundry-retro-script|Lobster|Regular|Foundry Retro Script|25||0.5|2.5|A bold retro script with joined letters, digitized from Lobster.
 foundry-casual|Cookie|Regular|Foundry Casual|25||0.6|2.5|A relaxed, rounded handwritten script, digitized from Cookie.
